@@ -1,0 +1,2 @@
+This file is made under the new branch which merged from main branch.
+These are the contents of new file which is file-2
